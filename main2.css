@@ -1,0 +1,29 @@
+.image_kjs{
+  padding-top:200px;
+  margin-left:40px;
+  text-align: center;
+}
+
+.title_kjs{
+    padding-top: 50px;
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+
+.text_kjs{
+    text-align: center;
+    padding-top:20px;
+    font-size:18px;
+    font-weight: 400;
+    
+}
+
+
+.instagram_kjs{
+  background-image: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
